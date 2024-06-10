@@ -5,14 +5,14 @@ This data analysis project aims to provide an overview and deeper understanding 
 ### Data Source 
 www.kaggledateset.com
 ### Tools
--Excel,Power Query :Data Cleaning 
--Sql Server: Minning & Data Analysis
--PowerBI : Creating Report
+- Excel,Power Query /Data Cleaning 
+- Sql Server /Minning & Data Analysis
+- PowerBI /Creating Report
 ### Data Cleaning / Preparation
 In the Intial data preparation the following were carried out;
 - Data loading and inspection
 - Handling Dupilicates and converting values to percentages.
-- Dates Fomatting and cleaning
+- Dates Formatting and cleaning
 ### Exploratory Data Analysis
 -Year with lowest unemployment rate
 -Year with highest unemployment rate
