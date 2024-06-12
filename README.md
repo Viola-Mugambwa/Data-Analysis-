@@ -6,7 +6,7 @@ This data analysis project aims to provide an overview and deeper understanding 
 www.kaggledateset.com
 ### Tools
 - Excel,Power Query /Data Cleaning 
-- Sql Server /Minning & Data Analysis
+- SQL Server /Minning & Data Analysis
 - PowerBI /Creating Report
 ### Data Cleaning / Preparation
 In the Intial data preparation the following were carried out;
