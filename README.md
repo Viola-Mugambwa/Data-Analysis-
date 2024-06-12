@@ -18,5 +18,11 @@ In the Intial data preparation the following were carried out;
 - Month with the lowest & highest unemployment rate
 - Age group with lowest & highest unemployment rate
 ### Data Analysis
-SQl Snytax
+```sql
+SELECT * FROM [2 Unemployment rates by AGE group]
+SELECT year,COUNT(DISTINCT month), age, Unemployment_rate
+FROM [2 Unemployment rates by AGE group]
+GROUP BY year,age,Unemployment_rate
+
+
 ### Observations/ Findings.
