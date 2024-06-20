@@ -27,11 +27,11 @@ In the Intial data preparation the following were carried out;
 - Furthermore the data shows an overall spike in high unemployment rates from 2017 to 2024.
 
   ### References
-  -Cousera online ( data analysis with excel)
-  -Edx online ( data visualisation with powerbi)
-  -Alex data analyst( youtube)
-  -kenji explains (youtube)
-  -chandoo(youtube)
-  -Herdata(youtube)
+  -Cousera online/Data Analytics with excel
+  -Edx online / Sql for Beginners
+  -Alex data analyst/ Data analysis with sql and excel bootcamp/ youtube
+  -kenji explains / Data visualtions with PowerBI,Power query, pivort table, sql, data analysis with excel/youtube
+  -chandoo/ Data cleaning, analysis, Pivort tables,excel visualisation/ youtube
+  -Herdata /Creating Data analysis profile on Github/youtube
   
   
