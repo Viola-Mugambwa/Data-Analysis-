@@ -18,11 +18,20 @@ In the Intial data preparation the following were carried out;
 - Month with the lowest & highest unemployment rate
 - Age group with lowest & highest unemployment rate
 ### Data Analysis
-```sql
-SELECT * FROM [2 Unemployment rates by AGE group]
-SELECT year,COUNT(DISTINCT month), age, Unemployment_rate
-FROM [2 Unemployment rates by AGE group]
-GROUP BY year,age,Unemployment_rate
 
+### Observations and Limitations 
+- Data Analysis shows that age 16-19,20-25 scored the highest unemployment rate throught the 17 years while 45-55 scored the lowest.
+- According to the data, lowest Unemployment rates where evident in 2017, 2019, 2023, this is taking account that these are the years that had all 12 months recorded.
+- Year 2008 and 2024 unemployment data was not able to give a clear picture of the unemployment level since  total count of months was less that 12.
+- Overall observations of the data showed that unemployment rates continued to increase as the years progressed for people with age between 16-19 whcih could probably be contributed to study time for the age group.
+- Furthermore the data shows an overall spike in high unemployment rates from 2017 to 2024.
 
-### Observations/ Findings.
+  ### References
+  -Cousera online ( data analysis with excel)
+  -Edx online ( data visualisation with powerbi)
+  -Alex data analyst( youtube)
+  -kenji explains (youtube)
+  -chandoo(youtube)
+  -Herdata(youtube)
+  
+  
