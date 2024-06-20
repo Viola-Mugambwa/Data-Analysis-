@@ -8,6 +8,7 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Findings](#findings)
+- [Observations](#observations)
 - [Limitations](#limitations)
 - [References](#references)
 
@@ -33,17 +34,20 @@ In the Intial data preparation the following were carried out;
 ### Data Analysis
 
 ### Findings
-- Data Analysis shows that age 16-19,20-25 scored the highest unemployment rate throught the 17 years while 45-55 scored the lowest.
-- According to the data, lowest Unemployment rates where evident in 2017, 2019, 2023, this is taking account that these are the years that had all 12 months recorded.
-- Year 2008 and 2024 unemployment data was not able to give a clear picture of the unemployment level since  total count of months was less that 12.
-- Overall observations of the data showed that unemployment rates continued to increase as the years progressed for people with age between 16-19 whcih could probably be contributed to study time for the age group.
+- Highest unemployment was registered among  16-19 and 20-25 age groups.
+- Lowest unemployment was registered among 45-55 and 35-40 age groups throughout the 17 years.
+- Years, 2017, 2019, 2023,registered the lowest unemployment rate, taking into account that all 12 months data per year was recorded.
 - Furthermore the data shows an overall spike in high unemployment rates from 2017 to 2024.
+- looking at the overall performance of months, august and february registered high unemployment rates, while march and april scored low.
+### Observations
+ -Overall the data shows that unemployment rates continued to increase as the yeasr progressed for people with the age of 16-19 which can be attributed to time in school and low unemployment rates seen in age 35-444, 45-55 can be said is the age group when most people are set in their careers.
 
 ### Limitations
+-2008 recorded  11 months data and 2024 recorded 3 months worth of data recorded which in away couldnot be used to give conclusive data in reference to other years. 
 ### References
   - Cousera online/Data Analytics with excel
   - Edx online / Sql for Beginners
-  - Alex data analyst/ Data analysis with sql and excel bootcamp/ youtube
+  - Alex the data analyst/ Data analysis with sql and excel bootcamp/ youtube
   - kenji explains / Data visualtions with PowerBI,Power query, pivort table, sql, data analysis with excel/youtube
   - chandoo/ Data cleaning, analysis, Pivort tables,excel visualisation/ youtube
   - Herdata /Creating Data analysis profile on Github/youtube
