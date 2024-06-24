@@ -40,10 +40,10 @@ In the Intial data preparation the following were carried out;
 - Furthermore the data shows an overall spike in high unemployment rates from 2017 to 2024.
 - looking at the overall performance of months, august and february registered high unemployment rates, while march and april scored low.
 ### Observations
- -Overall the data shows that unemployment rates continued to increase as the yeasr progressed for people with the age of 16-19 which can be attributed to time in school and low unemployment rates seen in age 35-444, 45-55 can be said is the age group when most people are set in their careers.
+ -Overall the data shows that unemployment rates continued to increase as the years  progressed for age of 16-19 to 20-24,which can be attributed to time in school. On the other hand, low unemployment rates registered in age group 35-44 & 45-55 which can be attributed to being the most common age range when people are set in their careers and working towards retirement security.
 
 ### Limitations
--2008 recorded  11 months data and 2024 recorded 3 months worth of data recorded which in away couldnot be used to give conclusive data in reference to other years. 
+- 2008 & 2024 recorded  (11 & 3 months) consequentively. This affected the analysis process by year and feared to give inconclusive data. However, analysis by month was done to get an overall unemployment rate throughout the 17 year period by month . Its worth noting that the overall annual perfomance in the 17 year period was based on the months that had a full 12 month unemployment recording.
 ### References
   - Cousera online/Data Analytics with excel
   - Edx online / Sql for Beginners
