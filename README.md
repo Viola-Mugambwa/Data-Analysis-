@@ -34,16 +34,15 @@ In the Intial data preparation the following were carried out;
 ### Data Analysis
 
 ### Findings
-- Highest unemployment was registered among  16-19 and 20-25 age groups.
-- Lowest unemployment was registered among 45-55 and 35-40 age groups throughout the 17 years.
-- Years, 2017, 2019, 2023,registered the lowest unemployment rate, taking into account that all 12 months data per year was recorded.
-- Furthermore the data shows an overall spike in high unemployment rates from 2017 to 2024.
-- looking at the overall performance of months, august and february registered high unemployment rates, while march and april scored low.
+- Age group 45-54,registered the lowest unemployment rate while,age 16-19 registered the highest unemployment throughout the 17 year period.
+- Looking at the months, July registered the lowest unemployment rate while March recorded the highest rates throughout the years.
+- 2019 registered the lowest compared to 2011 that recorded the highest unemployment rate in the 17 year period.This analysis takes into account the years that recorded 12 months.
+
 ### Observations
- -Overall the data shows that unemployment rates continued to increase as the years  progressed for age of 16-19 to 20-24,which can be attributed to time in school. On the other hand, low unemployment rates registered in age group 35-44 & 45-55 which can be attributed to being the most common age range when people are set in their careers and working towards retirement security.
+- Overall data shows that unemployment rates continued to increase as the years  progressed for age of 16-19 to 20-24,which can be attributed to time in school ,high school, college and university. On the other hand, low unemployment rates registered in age group 45-54 & 55-64 is common perception that by this time or age one is set in their career and working towards retirement security.
 
 ### Limitations
-- 2008 & 2024 recorded  (11 & 3 months) consequentively. This affected the analysis process by year and feared to give inconclusive data. However, analysis by month was done to get an overall unemployment rate throughout the 17 year period by month . Its worth noting that the overall annual perfomance in the 17 year period was based on the months that had a full 12 month unemployment recording.
+- 2008 & 2024 recorded  (11 & 3 months) consequentively. This resulted in inconclusive data if the count of months was not taken into account. However, analysis by month was done to get an overall view of the unemployment rate throughout the 17 year period. Which resulted in March and February scoring highest among all the 17 years. Its worth noting that the overall Unemployment rates in the 17 year period was based on the years that had a full 12 month recording.
 ### References
   - Cousera online/Data Analytics with excel
   - Edx online / Sql for Beginners
