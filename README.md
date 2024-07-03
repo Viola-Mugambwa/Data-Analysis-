@@ -15,7 +15,7 @@
 
 
 ### Project Overview
-This data analysis project aims to provide an overview and deeper understanding of unemployment trends across various age groups over a 17-year period, analyzed monthly.
+The data analysis project aims to provide an overview  of unemploymentrate trends over a 17-year period, analyzed monthly across different age groups.
 ### Data Source 
 www.kaggledateset.com
 ### Tools
@@ -32,6 +32,8 @@ In the Intial data preparation the following were carried out;
 - Month with the lowest & highest unemployment rate
 - Age group with lowest & highest unemployment rate
 ### Data Analysis
+```sql
+
 
 ### Findings
 - Age group 45-54,registered the lowest unemployment rate while,age 16-19 registered the highest unemployment throughout the 17 year period.
@@ -42,7 +44,7 @@ In the Intial data preparation the following were carried out;
 - Overall data shows that unemployment rates continued to increase as the years  progressed for age of 16-19 to 20-24,which can be attributed to time in school ,high school, college and university. On the other hand, low unemployment rates registered in age group 45-54 & 55-64 is common perception that by this time or age one is set in their career and working towards retirement security.
 
 ### Limitations
-- 2008 & 2024 recorded  (11 & 3 months) consequentively. This resulted in inconclusive data if the count of months was not taken into account. However, analysis by month was done to get an overall view of the unemployment rate throughout the 17 year period. Which resulted in March and February scoring highest among all the 17 years. Its worth noting that the overall Unemployment rates in the 17 year period was based on the years that had a full 12 month recording.
+- 2008 & 2024 recorded  (11 & 3 months) consequentively. This resulted in inconclusive data if the count of months was not taken into account. However, analysis by month was done to get an overall view of the unemployment rate throughout the 17 year period. Which resulted in March and February scoring highest among all the 17 years.  
 ### References
   - Cousera online/Data Analytics with excel
   - Edx online / Sql for Beginners
