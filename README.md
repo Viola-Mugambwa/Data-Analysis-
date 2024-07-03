@@ -33,6 +33,33 @@ In the Intial data preparation the following were carried out;
 - Age group with lowest & highest unemployment rate
 ### Data Analysis
 ```sql
+SELECT * From unemployment_rates;
+SELECT DISTINCT(percentagerate)AS unemployment_rate From unemployment_rates;
+SELECT DISTINCT(age) FROM unemployment_rates;
+SELECT COUNT(DISTINCT year) FROM unemployment_rates;
+
+SELECT COUNT(DISTINCT month) AS countofmonths, year FROM unemployment_rates
+GROUP BY year
+HAVING countofmonths =12
+ORDER BY year;
+
+SELECT age,
+CASE
+    WHEN age <=25 THEN 'adolescent'
+    WHEN age BETWEEN 30 AND 40 THEN 'adult'
+    WHEN age >40 ThEN 'old'
+END AS Agebracket
+FROM unemployment_rates;
+
+SELECT year,
+(SELECT ROUND(AVG percentagerate),2) FROM unemployment_rates)
+FROM unemployment_rates;
+
+SELECT SUM(percentagerate) As Sum_unemploymentrate,year FROM unemployment_rates
+WHERE year IN ( '2024','2008')
+GROUP BY year;
+
+
 
 
 ### Findings
