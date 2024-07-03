@@ -16,6 +16,9 @@
 
 ### Project Overview
 The data analysis project aims to provide an overview  of unemploymentrate trends over a 17-year period, analyzed monthly across different age groups.
+
+![PowerBI Dashboard](https://github.com/Viola-Mugambwa/Data-Analysis-/assets/171678539/2270add2-b2b5-42ca-abe2-42e673b56533)
+
 ### Data Source 
 www.kaggledateset.com
 ### Tools
